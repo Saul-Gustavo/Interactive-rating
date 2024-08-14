@@ -68,7 +68,8 @@ Use this section to recap over some of your major learnings while working throug
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<section>Rating </section>
+<section>Thank you</section>
 ```
 ```css
 .proud-of-this-css {
@@ -76,9 +77,9 @@ To see how you can add code snippets, see below:
 }
 ```
 ```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+element.forEach( (m, n) => {
+    m.addEventListener('click', () => {})
+})
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
